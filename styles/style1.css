@@ -1,0 +1,23 @@
+*{
+    color: rgb(255, 255, 255);
+    }
+img{
+    border: 3px solid;
+    }
+header{    
+    width:85%;   
+    height: 110;    
+    background-color: black;
+        }
+body{
+    background-color: grey;
+            
+     }
+img { 
+    background-color: lightslategray;
+    }
+.cat2_img{
+    background-color: lightslategray;
+    width: 450px;
+    height: 380px;
+    }

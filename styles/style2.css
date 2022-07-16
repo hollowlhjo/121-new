@@ -1,0 +1,15 @@
+*{
+    color: rgb(255, 255, 255);
+    }
+img{
+    border: 3px solid;
+    }
+
+header{
+    width:85%;
+    height: 110;
+    background-color: black;
+    }
+body{
+    background-color: grey;   
+    }
